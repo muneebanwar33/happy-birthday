@@ -16,6 +16,13 @@ COPY . .
 # Build the application
 RUN npm run build
 
+# Copy static assets to dist
+RUN cp -r style dist/ && \
+    cp -r img dist/ && \
+    cp -r fonts dist/ && \
+    cp -r music dist/ && \
+    cp wishes.json dist/
+
 # Expose port 1113
 EXPOSE 1113
 
