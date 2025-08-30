@@ -1,30 +1,35 @@
 {
-  "greeting": "សួស្តី",
-  "name": "ណាគ្រី",
-  "greetingText": "ខ្ញុំមានសំណាងដែលបានជួបមនុស្សស្រស់ស្អាតបំផុតដូចអ្នក",
-  "wishText": "សូមអោយថ្ពាល់របស់អ្នកនៅតែស្រស់ដូចផ្កានៅលើក្បាលអ្នក ស្នាមញញឹមស្រស់ស្អាតដូចជាផ្កាជារៀងរហូត សូមអោយអ្នករីករាយជានិច្ចតទៅ",
+  "greeting": "My Gollu Mollu Baby",
+  "name": "Warda Muneeb ❤️",
+  "greetingText": "You are the most beautiful part of my life. From the moment I wake up to see your angelic face, to the last thought before I sleep, you fill every corner of my heart with pure love and endless happiness 💖✨",
+  "wishText": "Mri Jan, aap ki smile mere dil ka sukoon hai - My gochu mochu, May Allah bless you with countless moments of joy, may your beautiful eyes always sparkle with happiness, and may our love story continue to bloom like the most fragrant flowers in paradise. You are not just my wife, you are my companion, my best friend, and the queen of my heart. Happy Birthday to the woman who transformed my world into a fairy tale! 🌹💕🌟",
   "imagePath": "img/panda.jpg",
-  "text1": "ថ្ងៃនេះគឺជាថ្ងៃខួបកំណើតរបស់អ្នក :D",
-  "textInChatBox": "រីករាយថ្ងៃកំណើត សូមអោយភាពរីករាយនិងស្នាមញញឹមនៅជាមួយអ្នករហូតតទៅ…",
-  "sendButtonLabel": "ផ្ញើ",
-  "text2": "ខ្ញុំចង់អោយអ្នកមានអារម្មណ៍ថារំភើប...",
-  "text3": "ខ្ញុំបានគិតយ៉ាងយកចិត្តទុកដាក់",
-  "text4": "ខ្ញុំយល់ថាខ្ញុំត្រូវតែធ្វើអ្វីមួយដែល",
-  "text4Adjective": "ពិសេស",
-  "text5Entry": "ដោយសារតែ",
-  "text5Content": "អ្នកជាមនុស្សពិសេសបំផុតសម្រាប់ខ្ញុំ",
-  "smiley": ":)",
-  "bigTextPart1": "ដូច្នេះ",
-  "bigTextPart2": "ទើប",
-  "wishHeading": "Happy Birthday Princess",
-  "outroText": "ខ្ញុំសង្ឃឹមថាអ្នកចូលចិត្តបែបនេះ",
-  "replayText": "ប្រសិនបើអ្នកចូលចិត្តវា អ្នកអាចមើលវាឡើងវិញបាន ដោយគ្រាន់តែចុចទីនេះ...",
-  "outroSmiley": ":)",
+  "text1": "Today is YOUR most special day, my beautiful Pricess! The day when an angel was born to make my life complete 🎉✨👑",
+  "textInChatBox": "Happy Birthday my eternal love! Main dua karta hun ke yeh saal aap ke liye khushiyon, kamyabiyon aur pyar se bhara ho 💖🎂🌟✨",
+  "sendButtonLabel": "Send Love",
+  "text2": "I wanted to create something that would make your heart skip a beat, something as magical as the feeling I get every time I look into your eyes...",
+  "text3": " 💕 So I crafted this with every ounce of love in my soul, your beautiful smile in my mind...",
+  "text4": "Kion k ap ni jati k Main apse kitna Pyar krta hun",
+  "text4Adjective": "extraordinary and priceless as you are",
+  "text5Entry": "Kion k",
+  "text5Content": "aap meri zindagi ka sab se qeemti tohfa hain Mry jeeny ki wja Mri Jan - my heart beats only for you",
+  "smiley": "💖",
+  "bigTextPart1": "So here's to",
+  "bigTextPart2": "sirf aap ke liye",
+  "wishHeading": "🎉 Happy Birthday My Beautiful Wife! 🎂👑",
+  "outroText": "Main chahta hun k ap apni zidagi k har din Khush rho mushkrati rhi (Only with me )",
+  "replayText": "Do you Want to See this Again, Just click here and let the rain of love fall upon your heart once more... 💫❤️",
+  "outroSmiley": "😘💕",
+  "creditsText": "Meri pyari biwi , aaj jab main yeh likh raha hun to mera dil mohabbat se bhar raha hai. Aap sirf meri biwi nahi, meri best Fiend , meri humsafar, aur mere khwabon ki Rani hain or Hamry hony waly Mini moons ki mama Jan. Jab se aap meri zindagi mein aayi hain, har din ek lagta hai. Aap ki hansi meri pasandeeda awaaz hai, aap ki aankhein meri manzil hain, aur aap ka pyar meri taqat hai. Allah se dua hai ke woh aap ko hamesha khush rakhe, aap ki har dua qabool kare, aur hamary Pyar mein mazeed barkat daale. Aap meri zindagi ka sab se khubsurat baab hain, aur main aap ke saath har mausam, har khushi, har gham mein khada rahunga. Aaj aap ke janam din par main waada karta hun ke main aap ko hamesha isi tarah pyar karunga, aap ka khayal rakhunga, aur aap ko duniya ki sab se khush qismat aurat banaunga. Janam din mubarak meri jaan, meri mohabbat, meri Warda Muneeb!",
   "music": "./music/music.mp3",
   "fonts": [
     {
-      "name": "Battambang",
-      "path": "https://fonts.googleapis.com/css?family=Battambang&display=swap"
+      "name": "Dancing Script",
+      "path": "https://fonts.googleapis.com/css?family=Dancing+Script:400,700&display=swap"
+    },
+    {
+      "name": "Poppins",
+      "path": "https://fonts.googleapis.com/css?family=Poppins:300,400,600&display=swap"
     }
   ]
 }
