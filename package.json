@@ -6,7 +6,7 @@
     "dev": "rspack serve",
     "build": "rspack build",
     "serve": "rspack serve",
-    "start": "npx serve dist -p $PORT"
+    "start": "npx serve dist -p ${PORT:-1113}"
   },
   "dependencies": {
     "serve": "^14.0.0"
