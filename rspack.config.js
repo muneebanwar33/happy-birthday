@@ -10,6 +10,7 @@ module.exports = {
     },
   },
   output: {
+    path: __dirname + "/dist",
     clean: true,
   },
   builtins: {
