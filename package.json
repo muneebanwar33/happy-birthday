@@ -5,7 +5,11 @@
   "scripts": {
     "dev": "rspack serve",
     "build": "rspack build",
-    "serve": "rspack serve"
+    "serve": "rspack serve",
+    "start": "npx serve dist -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
   },
   "devDependencies": {
     "@rspack/cli": "^0.5.0",
